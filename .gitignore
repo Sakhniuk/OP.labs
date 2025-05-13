@@ -1,0 +1,14 @@
+# Java / IntelliJ
+*.class
+*.log
+*.iml
+*.jar
+*.war
+*.ear
+target/
+out/
+.idea/
+*.iws
+*.ipr
+.DS_Store
+
